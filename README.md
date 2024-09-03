@@ -114,5 +114,5 @@ This project is licensed under the MIT License
 
 ## Contact
 
-Developed by Nithilan  
+Developed by Pahirathan Nithilan  
 Feel free to reach out for any questions or feedback.
